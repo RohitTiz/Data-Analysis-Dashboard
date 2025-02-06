@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-an online retail business operating across India, offering a wide range of products. To enhance business efficiency, track sales, and optimize decision-making, we have developed a Data Analysis Dashboard. This interactive dashboard provides valuable insights into sales trends, customer behavior, inventory management, and revenue performance.
+Jethalal-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+Project Objective
+The Jethalal Store wants to create an annual sales report for 2024. So that, the owner of the Jethalal store[who is tapu] can understand their customers and grow more sales in 2025 & 2026.

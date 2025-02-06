@@ -8,31 +8,31 @@ The Jethalal Store wants to create an annual sales report for 2024. So that, the
 
 - Who purchased more - Men or Women?
 
-What are different order status in 2022?
+- What are different order status in 2024?
 
-List top 10 states contributingto the sales?
+- List top 5 states contributingto the sales?
 
-Relation between age and gender based on number of orders.
+- Relation between age and gender based on number of orders.
 
-Which Channel is contributing maximum to the sales?
+- Which Channel is contributing maximum to the sales?
 
-Highest selling category?
+- Highest selling category?
 
-Percentage of Total Orders delivered
+- Percentage of Total Orders delivered
 
 Dashboard Interaction <a href="https://github.com/RohitTiz/Data-Analysis-Dashboard/blob/main/Dashboard.png"> View Dashboard</a>
 ## Process
-Verify data for any missing values and anomalies, and sort out the same.
-Made sure data is consistent and clean with respect to data type, data format and values used.
-Created pivot tables according to the questions asked.
-Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+- Check the data for missing values and anomalies, then address any issues.
+- Ensure the data is clean and consistent in terms of type, format, and values.
+- Generate pivot tables based on the required questions.
+- Combine all pivot tables into a single dashboard and use slicers for dynamic filtering.
 ## Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/b6338264-3dfb-42b5-8b0b-cab049913dbd)
 ## Project Insight
-Women customers are more likely to buy products compared to men (~65%).
-The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
-The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
-More than 90% of the products delivered
+- Women constitute the majority of buyers, accounting for approximately 65% of total purchases.
+- Maharashtra, Karnataka, and Uttar Pradesh lead in product sales across India.
+- Adults aged 30-49 years contribute the highest, making up around 50% of total purchases.
+- Most customer orders come from Amazon, Flipkart, and Myntra.
+- Over 90% of orders are successfully delivered.
 ## Final Conclusion:
-To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+To drive sales growth at Jethalal Store, a strategic marketing approach should focus on women aged 30-49 in Maharashtra, Karnataka, and Uttar Pradesh, as they form a key consumer segment. Targeted digital campaigns and personalized promotions can effectively engage this audience, leveraging their strong purchasing power in household and lifestyle products. Implementing this strategy will significantly enhance sales performance and customer retention. 
